@@ -35,7 +35,3 @@ https://user-images.githubusercontent.com/90910609/151673496-996138a2-0477-4630-
 ## Questions
 
 If you have any questions about this projects, hit me up at trackvinny@gmail.com. See more of my projects at https://github.com/icyhobbs.
-
-
-https://user-images.githubusercontent.com/90910609/151673496-996138a2-0477-4630-86c4-85b2e4a4ca6c.mov
-
