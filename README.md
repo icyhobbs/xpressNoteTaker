@@ -26,10 +26,10 @@ Fork or clone the repository, then run npm i, and node index.js in the command l
 Clone to your local machine
 Run "npm i" to install dependencies
 Run "node server.js" to start localhost server
-self-explanatory
+The rest is self-explanatory.
 
 ## Screenshots
 
 ## Questions
 
-If you have any questions about this projects, please contact me directly at trackvinny@gmail.com. You can view more of my projects at https://github.com/icyhobbs.
+If you have any questions about this projects, hit me up at trackvinny@gmail.com. See more of my projects at https://github.com/icyhobbs.
